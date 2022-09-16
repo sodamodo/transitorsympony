@@ -18,7 +18,7 @@ mv ~/Downloads/sd-v1-4.ckpt models/ldm/stable-diffusion-v1/model.ckpt
 
 conda env create -f environment.yaml
 
-// Code for running it. Could be a script!
+// Code for running it. Conda makes this really hard to make into a single shell script
 conda activate ldm
 python scripts/preload_models.py
 python scripts/dream.py
