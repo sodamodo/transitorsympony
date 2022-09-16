@@ -19,5 +19,6 @@ conda env create -f environment.yaml
 
 // Code for running it. Conda makes this really hard to make into a single shell script
 //conda activate ldm
+pip install setuptools==59.5.0
 //python scripts/preload_models.py
 //python scripts/dream.py
