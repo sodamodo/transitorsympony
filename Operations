@@ -16,7 +16,7 @@ After text, pass in the path to the image like this
 dream> mountains and river, Artstation, Golden Hour, Sunlight, detailed, elegant, ornate, 
 rocky mountains, Illustration, by Weta Digital, Painting, Saturated, Sun rays
 --init_img=/home/mendhak/Desktop/rough_drawing.png
-
+""""
 
 User/IP:
 ssh paperspace@172.83.15.216
