@@ -1,0 +1,26 @@
+Once launch script has been run, you are free to put whatever text you want in.
+
+
+"""
+Conveniently, a dream_log.txt file shows you all the prompts 
+you’ve run in case you want to refer back to something. Against each line, 
+you will also see a seed number that looks something like this: -S2420237860. 
+This allows you to regenerate the exact same image by specifying the seed with 
+your text prompt.
+"""
+
+*Pass in images along with text*
+After text, pass in the path to the image like this
+
+"""
+dream> mountains and river, Artstation, Golden Hour, Sunlight, detailed, elegant, ornate, 
+rocky mountains, Illustration, by Weta Digital, Painting, Saturated, Sun rays
+'''--init_img=/home/mendhak/Desktop/rough_drawing.png'''
+"""
+
+''
+User/IP:
+paperspace@172.83.15.216
+Password:
+xFVz5UExgC5g
+''
