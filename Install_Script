@@ -6,8 +6,7 @@ chmod +x Anaconda3-2022.05-Linux-x86_64.sh
 ~/anaconda3/bin/conda config --set auto_activate_base false
 ~/anaconda3/bin/conda init
 
-// for the sd-v1-4.ckpt, I had to upload to DropBox and then use Dropbox link to get
-// The file into the VM
+wget https://www.dropbox.com/s/8vpl2bf99zkxnga/sd-v1-4.ckpt?dl=1
 
 git clone https://github.com/lstein/stable-diffusion.git
 cd stable-diffusion
